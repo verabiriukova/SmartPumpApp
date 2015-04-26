@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Smart Pump</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_entry">EntryActivity</string>
+    <string name="title_activity_amount_entry">AmountEntryActivity</string>
+    <string name="title_activity_cost_entry">CostEntryActivity</string>
+    <string name="title_activity_request_reentry">RequestReentry</string>
+    <string name="title_activity_nfc_transfer">NfcTransferActivity</string>
+    <string name="title_activity_nfc_transfer_activity_cost">NfcTransferActivityCost</string>
+    <string name="title_activity_nfc_transfer_activity_amount">NfcTransferActivityAmount</string>
+    <string name="title_activity_wheel_entry">WheelEntryActivity</string>
+    <string name="title_activity_confirmation_received">ConfirmationReceivedActivity</string>
+
+
+</resources>
